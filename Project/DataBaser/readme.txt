@@ -1,0 +1,1 @@
+Prosta aplikacja okienkowa napisana w Java przy użyciu Swing pozwala przechowywac przedmioty
